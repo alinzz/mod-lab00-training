@@ -2,5 +2,6 @@
 #include "fun.h"
 
 int main() {
+    power(10, 3);
     return 0;
 }
